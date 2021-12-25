@@ -1,0 +1,16 @@
+{
+  "config":{
+    "weather_api_key": "ENTER API KEY HERE",
+
+    "locations":[
+      {
+          "latitude": "LATITUDE 1",
+          "longitude": "LONGITUDE 1"
+      },
+      {
+          "latitude": "LATITUDE 2",
+          "longitude": "LONGITUDE 2"
+      }
+    ]
+  }
+}
