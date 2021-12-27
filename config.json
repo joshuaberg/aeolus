@@ -4,10 +4,12 @@
 
     "locations":[
       {
+          "name": "NAME_OF_LOCATION_1"
           "latitude": "LATITUDE 1",
           "longitude": "LONGITUDE 1"
       },
       {
+          "name": "NAME_OF_LOCATION_2"
           "latitude": "LATITUDE 2",
           "longitude": "LONGITUDE 2"
       }
